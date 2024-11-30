@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tran Trung</h1>
-<h3 align="center">A passionate Data Analyst with an interest in Machine Learning and Generative AI</h3>
+<h3 align="center">A motivated entry-level Data Analyst eager to learn and apply Machine Learning/ Deep Learning and Generative AI techniques, seeking opportunities to develop technical skills and contribute to innovative data-driven projects.</h3>
 
 - 🌟 I'm currently working on [DATA-ASSISTANT-CHATBOT](https://github.com/Teungtran/DATA-ASSISTANT)
 
-- 🌱 I’m currently learning **Tensorflow (keras), Generative AI, Machine Learning**
+- 🌱 I’m a junior student at National Economics University, my major is Management Information Systems ( MIS)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teungtran](https://github.com/Teungtran)
 
