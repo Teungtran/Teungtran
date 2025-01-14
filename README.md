@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **nguyentrantrung2504@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAGOcGZxQws/wZg9pL38wrpzML7i0wP2xA/edit](https://www.canva.com/design/DAGOcGZxQws/wZg9pL38wrpzML7i0wP2xA/edit)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/trung nguyễn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung nguyễn" height="30" width="40" /></a>
