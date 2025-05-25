@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tran Trung</h1>
-<h3 align="center">A motivated entry-level AI/LLM Engineer eager to learn and apply Machine Learning/ Deep Learning and Generative AI techniques, seeking opportunities to develop technical skills and contribute to innovative data-driven projects.</h3>
+<h3 align="center">A motivated entry-level AI/LLM Engineer eager to learn and apply Machine Learning/ Deep Learning and MLOps/LLMOps techniques, seeking opportunities to develop technical skills and contribute to innovative AI-driven projects.</h3>
 
 - 🤖 I'm a AI engineer intern at [FPT Software](https://fptsoftware.com/)
 
@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teungtran](https://github.com/Teungtran)
 
-- 💬 Ask me about **Machine Learning, AI Agent, Data Preprocessing, LLM**
+- 💬 Ask me about **Machine Learning, AI Agentic, MLOps, LLMOps**
 
 - 📫 How to reach me **nguyentrantrung2504@gmail.com**
 
