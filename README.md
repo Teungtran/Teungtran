@@ -5,7 +5,7 @@
 
 - 🔭 My latest project [AI-DECISION-MAKING-SYSTEM](https://github.com/Teungtran/AI-DECISION-MAKING-SYSTEM)
 
-- 🛠️ I am building  [Mega-AI-Assistant-system](https://github.com/Teungtran/DE_AN)
+- 🛠️ I am building  [Mega-AI-Assistant-system](https://github.com/Teungtran/MY_DE_AN)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teungtran](https://github.com/Teungtran)
 
