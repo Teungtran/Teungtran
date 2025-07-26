@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tran Trung</h1>
 <h3 align="center">A AI/LLM Engineer eager to learn and apply Machine Learning/ Deep Learning and MLOps/LLMOps techniques, seeking opportunities to develop technical skills and contribute to innovative AI-driven projects.</h3>
 
-- 🤖 I'm a AI engineer intern at [FPT Software](https://fptsoftware.com/)
+- 🤖 I'm a AI engineer at [FPT Software](https://fptsoftware.com/)
 
 - 🔭 My latest project [AI-DECISION-MAKING-SYSTEM](https://github.com/Teungtran/AI-DECISION-MAKING-SYSTEM)
 
