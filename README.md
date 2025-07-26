@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Teungtran](https://github.com/Teungtran)
 
-- 💬 Ask me about **Machine Learning, AI Agentic, MLOps, LLMOps**
+- 💬 Ask me about **Machine Learning, AI Agentic, MLOps, LLM**
 
 - 📫 How to reach me **nguyentrantrung2504@gmail.com**
 
