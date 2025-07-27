@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Tran Trung</h1>
-<h3 align="center">A AI/ML Engineer eager to learn and apply Machine Learning/ Deep Learning and MLOps/LLMOps techniques, seeking opportunities to develop technical skills and contribute to innovative AI-driven projects.</h3>
+<h3 align="center">A motivated AI/ML Engineer eager to learn and apply advanced Machine Learning, MLOps, and LLMOps techniques. Actively seeking opportunities to grow technically and contribute to innovative, AI-driven projects — with a keen interest in integrating agentic AI systems for real-world impact.</h3>
 
 - 🤖 I'm a AI engineer at [FPT Software](https://fptsoftware.com/)
 
